@@ -39,7 +39,7 @@
   link: "https://doi.org/10.1109/ISBI60581.2025.10981278"
 
 - title: "Synthetic H&E Generation from Highly Multiplexed Immunofluorescence Imaging using Deep-Learning"
-  authors: "Patil, O. R., <strong>Marteau, B. L.</strong>, Giuste, F. O., & Wang, M. D."
+  authors: "Patil, O. R.*, <strong>Marteau, B. L.*</strong>, Giuste, F. O., & Wang, M. D."
   venue: "IEEE International Symposium on Biomedical Imaging (ISBI)"
   year: 2025
   link: "https://doi.org/10.1109/ISBI60581.2025.10981135"
@@ -58,7 +58,7 @@
 
 # 2024
 - title: "Brain Digital Twin Combining Artificial Intelligence and Extended Reality"
-  authors: "<strong>Marteau, B. L.</strong>, Vashista, S., Chen, M., Geng, W., Hornback, A., Nnamdi, N. C., Tan, S. Q. Y., Zhong, Y., Okada, N., Acerbo, E., Dickey, A. S., Drane, D. L., & Wang, M. D."
+  authors: "<strong>Marteau, B. L.*</strong>, Vashista, S.*, Chen, M., Geng, W., Hornback, A., Nnamdi, N. C., Tan, S. Q. Y., Zhong, Y., Okada, N., Acerbo, E., Dickey, A. S., Drane, D. L., & Wang, M. D."
   venue: "IEEE International Conference on Intelligent Reality (ICIR)"
   year: 2024
   link: "https://doi.org/10.1109/ICIR64558.2024.10976965"
@@ -108,7 +108,7 @@
   link: "https://dl.acm.org/doi/10.1145/3584371.3612980"
 
 - title: "Mapping and Diagnosing Augmented Whole Slide Image Datasets with Training Dynamics"
-  authors: "Shi, W.*, <strong>Marteau, B. L.*</strong>, & Wang, M. D."
+  authors: "Shi, W., <strong>Marteau, B. L.</strong>, & Wang, M. D."
   venue: "Deep Generative Models for Health Workshop NeurIPS"
   year: 2023
   link: "https://openreview.net/forum?id=q53lpM5KEg"
