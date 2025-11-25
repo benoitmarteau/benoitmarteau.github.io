@@ -1,0 +1,21 @@
+- name: "LinkedIn"
+  icon: "fa fa-linkedin"
+  url: "https://www.linkedin.com/in/benoit-marteau/"
+
+- name: "GitHub"
+  icon: "fa fa-github"
+  url: "https://github.com/benoitmarteau"
+
+# Example additional links (uncomment & edit as needed):
+
+- name: "Google Scholar"
+  icon: "fa fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=zZOwNpAAAAAJ&hl=en&oi=ao"
+
+- name: "Email"
+  icon: "fa fa-envelope"
+  url: "mailto:bmarteau3@outlook.com"
+
+# - name: "X (Twitter)"
+#   icon: "fa fa-twitter"
+#   url: "https://x.com/your-handle"
