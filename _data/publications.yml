@@ -9,7 +9,7 @@
   link: "https://openreview.net/forum?id=VkolnK6fTc"
 
 - title: "FHIR in Focus: Enabling Biomedical Data Harmonization for Intelligent Healthcare Systems"
-  authors: "Hornback, A., <strong>Marteau, B. L.</strong>, Tan, S. Q. Y., Patil, O. R., & Wang, M. D."
+  authors: "Hornback, A., <strong>Marteau, B. L.</strong>, Tan, S. Q. Y., Kim, K., Patil, O. R., Traynelis, J., Zhu, Y., Giuste, F., & Wang, M. D."
   venue: "TechRxiv (preprint)"
   year: 2025
   link: "https://www.techrxiv.org/doi/10.36227/techrxiv.174585774.47415852"
@@ -33,7 +33,7 @@
   link: "https://doi.org/10.1109/ICHI64645.2025.00040"
 
 - title: "Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization"
-  authors: "Chen, Y. L., <strong>Marteau, B. L.</strong>, Tamo, J. B., Patil, O. R., & Wang, M. D."
+  authors: "Chen, Y. L., <strong>Marteau, B. L.</strong>, Nnamdi, M. C., Tamo, J. B., & Wang, M. D."
   venue: "IEEE International Symposium on Biomedical Imaging (ISBI)"
   year: 2025
   link: "https://doi.org/10.1109/ISBI60581.2025.10981278"
