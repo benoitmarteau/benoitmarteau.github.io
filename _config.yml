@@ -1,0 +1,21 @@
+title: "Benoit L. Marteau"
+description: "4th-year Ph.D. student in ECE at Georgia Tech, working at the intersection of biomedical AI, XR, and trustworthy data."
+baseurl: ""        # For user site like username.github.io, leave blank
+url: ""            # You can set this later to "https://<username>.github.io"
+
+theme: nil         # We're not using a prebuilt theme; using our own layout
+
+# Markdown configuration
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Build settings
+permalink: pretty
+
+# Social links are loaded from _data/social.yml
+# Publications are loaded from _data/publications.yml
+
+# You can add custom variables here later if needed, e.g.:
+author:
+  name: "Benoit L. Marteau"
