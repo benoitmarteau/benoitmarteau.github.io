@@ -69,18 +69,19 @@
   year: 2024
   link: "https://doi.org/10.1109/ICIR64558.2024.10976979"
 
-- title: "Confidence-Calibrated Clinical Decision Support System for Reliable Respiratory Disease Screening"
-  authors: "Nnamdi, M. C., Tamo, J. B., Shi, W., Chundru, V., <strong>Marteau, B. L.</strong>, Patil, O. R., & Wang, M. D."
-  venue: "IEEE International Conference on Biomedical and Health Informatics (BHI)"
-  year: 2024
-  link: "https://doi.org/10.1109/BHI62660.2024.10913797"
-
 - title: "Improving A Large Healthcare System Research Data Warehouse Using OHDSI's Data Quality Dashboard"
   authors: "<strong>Marteau, B. L.</strong>, Hornback, A., Zhong, Y., Lowson, C., Woloff, J., Smith, B. M., Hilton, C., & Wang, M. D."
   venue: "IEEE International Conference on Biomedical and Health Informatics (BHI)"
   year: 2024
   link: "https://doi.org/10.1109/BHI62660.2024.10913573"
 
+
+- title: "Confidence-Calibrated Clinical Decision Support System for Reliable Respiratory Disease Screening"
+  authors: "Nnamdi, M. C., Tamo, J. B., Shi, W., Chundru, V., <strong>Marteau, B. L.</strong>, Patil, O. R., & Wang, M. D."
+  venue: "IEEE International Conference on Biomedical and Health Informatics (BHI)"
+  year: 2024
+  link: "https://doi.org/10.1109/BHI62660.2024.10913797"
+  
 - title: "Interpretable Survival Risk Prediction for High-Grade Glioma Patients via Radiomic Features from Peritumoral Region"
   authors: "Dhamdhere, R., Bharadwaj, S., Aggarwal, A., Mutha, P., Shi, W., <strong>Marteau, B. L.</strong>, Madabhushi, A., & Wang, M. D."
   venue: "IEEE Engineering in Medicine and Biology Society (EMBC)"
