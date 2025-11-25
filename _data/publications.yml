@@ -102,13 +102,13 @@
   link: "https://doi.org/10.1109/BHI58575.2023.10313377"
 
 - title: "Choice Over Effort: Mapping and Diagnosing Augmented Whole Slide Image Datasets with Training Dynamics"
-  authors: "Shi, W., <strong>Marteau, B. L.</strong>, Giuste, F. O., & Wang, M. D."
+  authors: "Shi, W.*, <strong>Marteau, B. L.*</strong>, Giuste, F. O., & Wang, M. D."
   venue: "ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics"
   year: 2023
   link: "https://dl.acm.org/doi/10.1145/3584371.3612980"
 
 - title: "Mapping and Diagnosing Augmented Whole Slide Image Datasets with Training Dynamics"
-  authors: "Shi, W., <strong>Marteau, B. L.</strong>, & Wang, M. D."
+  authors: "Shi, W.*, <strong>Marteau, B. L.*</strong>, & Wang, M. D."
   venue: "Deep Generative Models for Health Workshop NeurIPS"
   year: 2023
   link: "https://openreview.net/forum?id=q53lpM5KEg"
@@ -120,13 +120,13 @@
   link: "https://dl.acm.org/doi/10.1145/3584371.3613015"
 
 - title: "Spatial Subcellular Organelle Networks in Single Cells"
-  authors: "Venkatesan, M., Zhang, N., <strong>Marteau, B. L.</strong>, Yajima, Y., De Zarate Garcia, N. O., Fang, Z., Hu, T., Cai, S., Ford, A., Olszewski, H., et al."
+  authors: "Venkatesan, M., Zhang, N., <strong>Marteau, B. L.</strong>, Yajima, Y., De Zarate Garcia, N. O., Fang, Z., Hu, T., Cai, S., Ford, A., Olszewski, H., Borst, A., & Coskun, A. F."
   venue: "Scientific Reports"
   year: 2023
   link: "https://doi.org/10.1038/s41598-023-32474-y"
 
 - title: "Explainable Synthetic Image Generation to Improve Risk Assessment of Rare Pediatric Heart Transplant Rejection"
-  authors: "Giuste, F. O., Sequeira, R., Keerthipati, V., Lais, P., Mirzazadeh, A., Mohseni, A., Zhu, Y., Shi, W., <strong>Marteau, B. L.</strong>, Zhong, Y., et al."
+  authors: "Giuste, F. O., Sequeira, R., Keerthipati, V., Lais, P., Mirzazadeh, A., Mohseni, A., Zhu, Y., Shi, W., <strong>Marteau, B. L.</strong>, Zhong, Y., Li, T., Das, B., Shehahta, B., Deshpande, S., & Wang M. D."
   venue: "Journal of Biomedical Informatics"
   year: 2023
   link: "https://doi.org/10.1016/j.jbi.2023.104303"
@@ -139,7 +139,7 @@
   link: "https://doi.org/10.1109/EMBC48229.2022.9871865"
 
 - title: "IDTVR: A Novel Cloud Framework for an Interactive Digital Twin in Virtual Reality"
-  authors: "Zhong, Y., <strong>Marteau, B. L.</strong>, Hornback, A., Zhu, Y., Shi, W., Giuste, F. O., Krzak, J. J., Graf, A., Chafetz, R., & Wang, M. D."
+  authors: "Zhong, Y.*, <strong>Marteau, B. L.*</strong>, Hornback, A., Zhu, Y., Shi, W., Giuste, F. O., Krzak, J. J., Graf, A., Chafetz, R., & Wang, M. D."
   venue: "IEEE International Conference on Intelligent Reality (ICIR) - <strong>Best Paper Award</strong>"
   year: 2022
   link: "https://doi.org/10.1109/ICIR55739.2022.00020"
