@@ -10,7 +10,7 @@ title: "Benoit L. Marteau"
     <div class="hero-text">
       <h1 class="hero-name">Benoit L. Marteau</h1>
       <p class="hero-tagline">
-        4th-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong>,
+        4<sup>th</sup>-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong>,
         working at the intersection of <strong>Biomedical AI</strong>, <strong>XR</strong>, and <strong>trustworthy data</strong>.
       </p>
     </div>
