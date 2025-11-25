@@ -88,7 +88,8 @@ body {
 }
 
 .hero-name {
-  font-size: 2.25rem;
+  font-size: 3rem;
+  font-weight: 700;
   margin: 0 0 0.5rem;
   color: #111827;
 }
@@ -109,6 +110,17 @@ body {
   border-radius: 999px;
   border: 3px solid #e5e7eb;
   object-fit: cover;
+}
+
+/* Hero social links */
+.hero-social-links {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
 }
 
 /* Sections */
@@ -152,6 +164,20 @@ body {
 }
 
 /* Publications */
+.publication-year-header {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #1f2933;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #2563eb;
+}
+
+.publication-year-header:first-of-type {
+  margin-top: 0;
+}
+
 .publication-list {
   list-style: none;
   margin: 0;
@@ -221,6 +247,19 @@ body {
 
 .social-link-item i {
   font-size: 1.1rem;
+}
+
+.resume-download {
+  background-color: #2563eb !important;
+  color: #ffffff !important;
+  border-color: #2563eb !important;
+  font-weight: 500;
+}
+
+.resume-download:hover,
+.resume-download:focus {
+  background-color: #1d4ed8 !important;
+  border-color: #1d4ed8 !important;
 }
 
 /* Footer */

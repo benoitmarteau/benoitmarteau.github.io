@@ -1,10 +1,156 @@
-# Add your publications here later. Example structure:
-#
-# - title: "An Example Paper Title"
-#   authors: "B. L. Marteau, M. D. Wang, et al."
-#   venue: "Conference or Journal Name"
-#   year: 2025
-#   link: "https://doi.org/..."
-#
-# For now this file is intentionally empty so the site shows
-# a “Coming soon” message.
+# Publications - Benoit L. Marteau
+# Sorted chronologically from newest to oldest
+
+# 2025
+- title: "An AI Implementation Science Study to Improve Trustworthy Data in a Large Healthcare System"
+  authors: "<strong>Marteau, B. L.</strong>, Hornback, A., Tan, S. Q. Y., Woloff, J., Lowson, C., & Wang, M. D."
+  venue: "IEEE International Conference on Biomedical and Health Informatics (BHI)"
+  year: 2025
+  link: "https://openreview.net/forum?id=VkolnK6fTc"
+
+- title: "FHIR in Focus: Enabling Biomedical Data Harmonization for Intelligent Healthcare Systems"
+  authors: "Hornback, A., <strong>Marteau, B. L.</strong>, Tan, S. Q. Y., Patil, O. R., & Wang, M. D."
+  venue: "TechRxiv (preprint)"
+  year: 2025
+  link: "https://www.techrxiv.org/doi/10.36227/techrxiv.174585774.47415852"
+
+- title: "Data-Driven Symbolic Higher-Order Epistasis Discovery with Kolmogorov-Arnold Networks"
+  authors: "Patil, O. R., Shazand, K., <strong>Marteau, B. L.</strong>, Shen, Y., & Wang, M. D."
+  venue: "bioRxiv (preprint)"
+  year: 2025
+  link: "https://www.biorxiv.org/content/10.1101/2025.10.31.685894v1"
+
+- title: "MENDR: Manifold Explainable Neural Data Representations"
+  authors: "Chen, M., Nnamdi, M. C., Shao, J., Hornback, A., Huang, H., Tamo, J. B., Zhong, Y., <strong>Marteau, B. L.</strong>, Shi, W., & Wang, M. D."
+  venue: "arXiv preprint"
+  year: 2025
+  link: "https://arxiv.org/abs/2508.04956"
+
+- title: "Anatomically-constrained Near-eye Gaze Tracking and Movement Classification using Transformer"
+  authors: "Zhong, Y., Xu, J., <strong>Marteau, B. L.</strong>, Tan, S. Q. Y., & Wang, M. D."
+  venue: "IEEE International Conference on Healthcare Informatics (ICHI)"
+  year: 2025
+  link: "https://doi.org/10.1109/ICHI64645.2025.00040"
+
+- title: "Augmenting Spline Interpolated Dementia EEG Data with Deep Learning for Improved Multi-Centric Data Harmonization"
+  authors: "Chen, Y. L., <strong>Marteau, B. L.</strong>, Tamo, J. B., Patil, O. R., & Wang, M. D."
+  venue: "IEEE International Symposium on Biomedical Imaging (ISBI)"
+  year: 2025
+  link: "https://doi.org/10.1109/ISBI60581.2025.10981278"
+
+- title: "Synthetic H&E Generation from Highly Multiplexed Immunofluorescence Imaging using Deep-Learning"
+  authors: "Patil, O. R., <strong>Marteau, B. L.</strong>, Giuste, F. O., & Wang, M. D."
+  venue: "IEEE International Symposium on Biomedical Imaging (ISBI)"
+  year: 2025
+  link: "https://doi.org/10.1109/ISBI60581.2025.10981135"
+
+- title: "Fourier-inspired Automatic Cobb Angles Measurement for Adolescent Idiopathic Scoliosis"
+  authors: "Zhong, Y., Giuste, F. O., Shi, W., Tamo, J. B., Nnamdi, M. C., <strong>Marteau, B. L.</strong>, Wang, K., Hwang, S. W., Poon, S., Iwinski, H. J., & Wang, M. D."
+  venue: "Research Square (preprint)"
+  year: 2025
+  link: "https://www.researchsquare.com/article/rs-6010694/v1"
+
+- title: "Developing Semi-Automated Approaches for Generating Survivorship Care Plans for Pediatric Cancer Survivors"
+  authors: "Hornback, A., Lewis, R. W., Liang, W. H., Effinger, K. E., Muthu, N., Sathu, H., Zhu, Y., <strong>Marteau, B. L.</strong>, & Wang, M. D."
+  venue: "IEEE International Conference on Biomedical and Health Informatics (BHI)"
+  year: 2025
+  link: "https://openreview.net/forum?id=82pq4Mza2M"
+
+# 2024
+- title: "Brain Digital Twin Combining Artificial Intelligence and Extended Reality"
+  authors: "<strong>Marteau, B. L.</strong>, Zhong, Y., Giuste, F. O., Shi, W., Tamo, J. B., Nnamdi, M. C., & Wang, M. D."
+  venue: "IEEE International Conference on Intelligent Reality (ICIR)"
+  year: 2024
+  link: "https://doi.org/10.1109/ICIR64558.2024.10976965"
+
+- title: "VR-RAISE: Virtual Reality for Reachability Assessment using an Interactive System Environment"
+  authors: "Giuste, F. O., Zhong, Y., <strong>Marteau, B. L.</strong>, Shi, W., Tamo, J. B., Nnamdi, M. C., & Wang, M. D."
+  venue: "IEEE International Conference on Intelligent Reality (ICIR)"
+  year: 2024
+  link: "https://doi.org/10.1109/ICIR64558.2024.10976979"
+
+- title: "Confidence-Calibrated Clinical Decision Support System for Reliable Respiratory Disease Screening"
+  authors: "Nnamdi, M. C., Tamo, J. B., Shi, W., Chundru, V., <strong>Marteau, B. L.</strong>, Patil, O. R., & Wang, M. D."
+  venue: "IEEE International Conference on Biomedical and Health Informatics (BHI)"
+  year: 2024
+  link: "https://doi.org/10.1109/BHI62660.2024.10913797"
+
+- title: "Improving A Large Healthcare System Research Data Warehouse Using OHDSI's Data Quality Dashboard"
+  authors: "<strong>Marteau, B. L.</strong>, Hornback, A., Zhong, Y., Lowson, C., Woloff, J., Smith, B. M., Hilton, C., & Wang, M. D."
+  venue: "IEEE International Conference on Biomedical and Health Informatics (BHI)"
+  year: 2024
+  link: "https://doi.org/10.1109/BHI62660.2024.10913573"
+
+- title: "Interpretable Survival Risk Prediction for High-Grade Glioma Patients via Radiomic Features from Peritumoral Region"
+  authors: "Dhamdhere, R., Bharadwaj, S., Aggarwal, A., Mutha, P., Shi, W., <strong>Marteau, B. L.</strong>, Madabhushi, A., & Wang, M. D."
+  venue: "IEEE Engineering in Medicine and Biology Society (EMBC)"
+  year: 2024
+  link: "https://doi.org/10.1109/EMBC53108.2024.10782039"
+
+# 2023
+- title: "Personalized COVID-19 Early Detection Using Wearable Data Based on Self-Reported Records"
+  authors: "Ding, C., Lin, D., Lei, Z., Myers, J., Shi, W., <strong>Marteau, B. L.</strong>, & Wang, M. D."
+  venue: "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+  year: 2023
+  link: "https://doi.org/10.1109/BIBM58861.2023.10385664"
+
+- title: "Rare Heart Transplant Rejection Classification Using Diffusion-Based Synthetic Image Augmentation"
+  authors: "Bao, H., Deng, J., Xing, S., Zhong, Y., Shi, W., <strong>Marteau, B. L.</strong>, Das, B., Shehata, B., Deshpande, S., & Wang, M. D."
+  venue: "IEEE International Conference on Biomedical and Health Informatics (BHI)"
+  year: 2023
+  link: "https://doi.org/10.1109/BHI58575.2023.10313377"
+
+- title: "Choice Over Effort: Mapping and Diagnosing Augmented Whole Slide Image Datasets with Training Dynamics"
+  authors: "Shi, W., <strong>Marteau, B. L.</strong>, Giuste, F. O., & Wang, M. D."
+  venue: "ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics"
+  year: 2023
+  link: "https://dl.acm.org/doi/10.1145/3584371.3612980"
+
+- title: "Mapping and Diagnosing Augmented Whole Slide Image Datasets with Training Dynamics"
+  authors: "Shi, W., <strong>Marteau, B. L.</strong>, & Wang, M. D."
+  venue: "Deep Generative Models for Health Workshop NeurIPS"
+  year: 2023
+  link: "https://openreview.net/forum?id=q53lpM5KEg"
+
+- title: "Model Confidence Calibration for Reliable COVID-19 Early Screening via Audio Signal Analysis"
+  authors: "Nnamdi, M. C., Tamo, J. B., Stackpole, S., Shi, W., <strong>Marteau, B. L.</strong>, & Wang, M. D."
+  venue: "ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics"
+  year: 2023
+  link: "https://dl.acm.org/doi/10.1145/3584371.3613015"
+
+- title: "Spatial Subcellular Organelle Networks in Single Cells"
+  authors: "Venkatesan, M., Zhang, N., <strong>Marteau, B. L.</strong>, Yajima, Y., De Zarate Garcia, N. O., Fang, Z., Hu, T., Cai, S., Ford, A., Olszewski, H., et al."
+  venue: "Scientific Reports"
+  year: 2023
+  link: "https://doi.org/10.1038/s41598-023-32474-y"
+
+- title: "Explainable Synthetic Image Generation to Improve Risk Assessment of Rare Pediatric Heart Transplant Rejection"
+  authors: "Giuste, F. O., Sequeira, R., Keerthipati, V., Lais, P., Mirzazadeh, A., Mohseni, A., Zhu, Y., Shi, W., <strong>Marteau, B. L.</strong>, Zhong, Y., et al."
+  venue: "Journal of Biomedical Informatics"
+  year: 2023
+  link: "https://doi.org/10.1016/j.jbi.2023.104303"
+
+# 2022
+- title: "Accelerating Multi-site Health Informatics with Streamlined Data Infrastructure using OMOP-on-FHIR"
+  authors: "<strong>Marteau, B. L.</strong>, Zhu, Y., Giuste, F. O., Shi, W., Carpenter, A., Hilton, C., & Wang, M. D."
+  venue: "IEEE Engineering in Medicine & Biology Society (EMBC)"
+  year: 2022
+  link: "https://doi.org/10.1109/EMBC48229.2022.9871865"
+
+- title: "IDTVR: A Novel Cloud Framework for an Interactive Digital Twin in Virtual Reality"
+  authors: "Zhong, Y., <strong>Marteau, B. L.</strong>, Hornback, A., Zhu, Y., Shi, W., Giuste, F. O., Krzak, J. J., Graf, A., Chafetz, R., & Wang, M. D."
+  venue: "IEEE International Conference on Intelligent Reality (ICIR) - <strong>Best Paper Award</strong>"
+  year: 2022
+  link: "https://doi.org/10.1109/ICIR55739.2022.00020"
+
+- title: "Development of Machine Learning Regression Model for COVID-19 Drug Target Prediction"
+  authors: "Zamitalo, A., Xie, Q., Allam, M., Philip, P., Shi, W., Giuste, F. O., <strong>Marteau, B. L.</strong>, Murakoso, M., & Wang, M. D."
+  venue: "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+  year: 2022
+  link: "https://doi.org/10.1109/BIBM55620.2022.9995319"
+
+- title: "Identification of COVID-19 Severity and Associated Genetic Biomarkers based on scRNA-SEQ Data"
+  authors: "Goel, A., Mudge, Z., Bi, S., Brenner, C., Huffman, N., Giuste, F. O., <strong>Marteau, B. L.</strong>, Shi, W., & Wang, M. D."
+  venue: "ACM International Conference on Bioinformatics, Computational Biology and Health Informatics"
+  year: 2022
+  link: "https://doi.org/10.1145/3535508.3545519"
