@@ -3,8 +3,6 @@ description: "4th-year Ph.D. student in ECE at Georgia Tech, working at the inte
 baseurl: ""        # For user site like username.github.io, leave blank
 url: ""            # You can set this later to "https://<username>.github.io"
 
-theme: nil         # We're not using a prebuilt theme; using our own layout
-
 # Markdown configuration
 markdown: kramdown
 kramdown:
