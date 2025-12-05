@@ -2,6 +2,12 @@
 # Sorted chronologically from newest to oldest
 
 # 2025
+- title: "EXR: An Interactive Immersive EHR Visualization in Extended Reality"
+  authors: "<strong>Marteau, B. L.*</strong>, Tan, S. Q. Y.*, Li, J., Hornback, A., Zhong, Y., Wang, S., Lowson, C., Woloff, J., Pahys, J. M., Hwang, S. W., Hilton, C., & Wang, M. D."
+  venue: "IEEE International Conference on Intelligent Reality (ICIR)"
+  year: 2025
+  link: ""
+
 - title: "An AI Implementation Science Study to Improve Trustworthy Data in a Large Healthcare System"
   authors: "<strong>Marteau, B. L.</strong>, Hornback, A., Tan, S. Q. Y., Woloff, J., Lowson, C., & Wang, M. D."
   venue: "IEEE International Conference on Biomedical and Health Informatics (BHI)"

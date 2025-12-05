@@ -32,7 +32,7 @@ title: "Benoit L. Marteau"
         </li>
       {% endfor %}
       <li class="social-link-item">
-        <a href="{{ '/assets/Resume_Marteau_Benoit_2025_01_25.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="resume-download">
+        <a href="{{ '/assets/Resume_FINAL.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="resume-download">
           <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
           <span class="social-name">Resume (PDF)</span>
         </a>
