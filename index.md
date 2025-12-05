@@ -41,23 +41,37 @@ title: "Benoit L. Marteau"
   </div>
 </section>
 
-<section id="about" class="section section-alt">
+<section id="awards" class="section section-alt">
+  <div class="container">
+    <h2>Awards &amp; Leadership</h2>
+    <ul class="awards-list">
+      <li><strong>IEEE ICIR 2022 Best Paper Award</strong> — "IDTVR: A Novel Cloud Framework for an Interactive Digital Twin in Virtual Reality"</li>
+      <li><strong>IEEE BHI 2025 Young Professional Co-Chair</strong> — Organizing committee for IEEE International Conference on Biomedical and Health Informatics</li>
+      <li><strong>ECE-Coulter Shenzhen M.S. Fellowship</strong> — Georgia Tech (2019)</li>
+    </ul>
+  </div>
+</section>
+
+<section id="about" class="section">
   <div class="container">
     <h2>About</h2>
     <p>
-      I am a 4<sup>th</sup>-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong> and a member of the
+      I am a 4<sup>th</sup>-year <strong>Ph.D. candidate</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong> (expected <strong>May 2026</strong>) and a member of the
       <strong>Bio-MIBLab</strong>, advised by <strong>Dr. May D. Wang</strong>. I completed a <strong>Diplôme d'Ingénieur</strong> from <strong>Arts et Métiers ParisTech</strong> in 2020
-      and an <strong>M.S. in Electrical &amp; Computer Engineering</strong> at Georgia Tech in 2019 (recipient of the <strong>ECE-Coulter Shenzhen M.S. Fellowship</strong>) before continuing into my doctoral studies.
+      and an <strong>M.S. in Electrical &amp; Computer Engineering</strong> at Georgia Tech in 2024 before continuing into my doctoral studies.
     </p>
     <p>
       My research focuses on <strong>Artificial Intelligence (AI) Implementation Science</strong> within healthcare, <strong>medical data harmonization</strong>, <strong>eXtended Reality (XR)</strong>,
       <strong>digital signal processing</strong>, and <strong>clinical decision support systems</strong>. I have expertise in developing AI-based clinical systems using
-      <strong>Generative AI</strong> for medical imaging, <strong>multimodal data harmonization</strong>,
+      <strong>Generative AI</strong> for medical imaging, <strong>multimodal data harmonization</strong> (including <strong>FHIR</strong> and <strong>OMOP CDM v5.4</strong>),
       and <strong>Digital Twin (DT)</strong> technologies for healthcare applications.
     </p>
     <p>
-      As <strong>Lab Manager</strong>, I manage a laboratory with over 50 graduate and undergraduate students, coordinate lab computational infrastructure including Azure cloud environments. I also co-led the
+      As <strong>Lab Manager</strong>, I manage a laboratory with over <strong>50 graduate and undergraduate students</strong> and directly mentor <strong>12+ researchers</strong>. I coordinate lab computational infrastructure including <strong>Azure cloud environments</strong> (IoT Hub, Function App, Blob Storage, ML). I also co-led the
       organization of a symposium on Safe, Trustworthy, Actionable, and Responsible AI in healthcare.
+    </p>
+    <p>
+      I have <strong>25 peer-reviewed publications</strong> (7 first/co-first author) and have developed <strong>XR applications</strong> using <strong>Unity</strong> with <strong>Meta SDK</strong> for brain visualization and rehabilitation research.
     </p>
     <p>
       I successfully completed the <strong>TI:GER (Technology Innovation: Generating Economic Results) Program</strong>, a 3-semester entrepreneurship program at Georgia Tech,
@@ -70,9 +84,54 @@ title: "Benoit L. Marteau"
   </div>
 </section>
 
+<section id="skills" class="section section-alt">
+  <div class="container">
+    <h2>Technical Skills</h2>
+    <div class="skills-grid">
+      <div class="skill-category">
+        <h3>Languages</h3>
+        <div class="chips">
+          <span class="chip">Python</span>
+          <span class="chip">C#</span>
+          <span class="chip">SQL</span>
+          <span class="chip">MATLAB</span>
+        </div>
+      </div>
+      <div class="skill-category">
+        <h3>AI/ML Frameworks</h3>
+        <div class="chips">
+          <span class="chip">PyTorch</span>
+          <span class="chip">TensorFlow</span>
+          <span class="chip">Scikit-learn</span>
+          <span class="chip">Hugging Face</span>
+        </div>
+      </div>
+      <div class="skill-category">
+        <h3>XR Development</h3>
+        <div class="chips">
+          <span class="chip">Unity</span>
+          <span class="chip">Meta SDK</span>
+          <span class="chip">Blender</span>
+          <span class="chip">Meshroom</span>
+        </div>
+      </div>
+      <div class="skill-category">
+        <h3>Cloud &amp; Data</h3>
+        <div class="chips">
+          <span class="chip">Azure IoT Hub</span>
+          <span class="chip">Azure Function App</span>
+          <span class="chip">Azure Blob Storage</span>
+          <span class="chip">FHIR</span>
+          <span class="chip">OMOP CDM</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section id="interests" class="section">
   <div class="container">
-    <h2>Interests</h2>
+    <h2>Research Interests</h2>
     <div class="chips">
       <span class="chip">AI Implementation Science</span>
       <span class="chip">XR/Digital Twins</span>
@@ -82,10 +141,6 @@ title: "Benoit L. Marteau"
       <span class="chip">Generative Models (GANs, Diffusion)</span>
       <span class="chip">Clinical Decision Support</span>
       <span class="chip">Trustworthy AI</span>
-      <span class="chip">Astrophysics</span>
-      <span class="chip">Aerospace</span>
-      <span class="chip">Model Trains</span>
-      <span class="chip">Piano</span>
     </div>
   </div>
 </section>
