@@ -111,8 +111,6 @@ title: "Benoit L. Marteau"
         <div class="chips">
           <span class="chip">Unity</span>
           <span class="chip">Meta SDK</span>
-          <span class="chip">Blender</span>
-          <span class="chip">Meshroom</span>
         </div>
       </div>
       <div class="skill-category">
