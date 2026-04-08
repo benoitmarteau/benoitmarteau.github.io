@@ -60,10 +60,10 @@ title: "Benoit L. Marteau"
   <div class="container">
     <h2>About</h2>
     <p>
-      I am a last-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong> (expected <strong>2026</strong>),
+      I am a last-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong> (expected <strong>Fall 2026</strong>),
       advised by <strong>Dr. May D. Wang</strong>. I have served as <strong>Lab Manager</strong> of the <strong>Bio-MIBLab</strong> for three years.
-      Prior to my doctoral studies, I completed a <strong>Diplôme d'Ingénieur</strong> from <strong>Arts et Métiers ParisTech</strong> (2020),
-      worked as an intern at <strong>Cisco</strong>, and earned an <strong>M.S. in Electrical &amp; Computer Engineering</strong> from Georgia Tech (2024).
+      I hold a <strong>Diplôme d'Ingénieur</strong> from <strong>Arts et Métiers ParisTech</strong> (2016–2020) and an <strong>M.S. in Electrical &amp; Computer Engineering</strong> from <strong>Georgia Tech</strong> (2019) through a double-diploma program.
+      I interned at <strong>Cisco</strong> (2020) and worked as a <strong>Research Assistant</strong> in the <strong>Coskun Lab</strong> at Georgia Tech (2021), where I focused on single-cell imaging and AI-driven analysis, before joining Dr. Wang's lab to start my Ph.D. in 2022.
     </p>
     <p>
       My research centers on <strong>Trustworthy AI and Data</strong> in healthcare. I develop methods for <strong>healthcare data quality assessment and improvement</strong>,
@@ -75,13 +75,13 @@ title: "Benoit L. Marteau"
       I coordinate lab computational infrastructure including <strong>Azure cloud environments</strong> and serve on the organizing committees for <strong>IEEE BHI 2025</strong> and the <strong>STAR-AI Symposium 2026</strong>.
     </p>
     <p>
-      I have authored <strong>30+ peer-reviewed publications</strong> (8 first/co-first author) and developed <strong>XR applications</strong> using <strong>Unity</strong> with <strong>Meta SDK</strong> for brain visualization and rehabilitation research.
+      I have authored <strong>30+ peer-reviewed publications</strong> (9 first/co-first author) and developed <strong>XR applications</strong> using <strong>Unity</strong> with <strong>Meta SDK</strong> for brain visualization and rehabilitation research.
     </p>
     <p>
       I completed the <strong>TI:GER (Technology Innovation: Generating Economic Results) Program</strong>, a three-semester entrepreneurship program at Georgia Tech focused on translating research into impactful technologies.
     </p>
     <p>
-      Outside of research, I am passionate about <strong>aerospace</strong>, <strong>robotics</strong>, and <strong>drones</strong>, I led the Arts et Métiers team at the <strong>2017 Dassault UAV Challenge</strong> (3rd place, first team to use deep learning in the competition).
+      Outside of research, I am passionate about <strong>aerospace</strong>, <strong>robotics</strong>, and <strong>drones</strong>. I led the Arts et Métiers team at the <strong>2017 Dassault UAV Challenge</strong> (3rd place, first team to use deep learning in the competition).
       I also enjoy <strong>model trains</strong>, <strong>space exploration</strong>, and playing <strong>piano</strong>.
       I am fluent in both <strong>English</strong> and <strong>French</strong> (native).
     </p>
