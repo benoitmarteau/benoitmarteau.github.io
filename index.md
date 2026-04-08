@@ -45,13 +45,13 @@ title: "Benoit L. Marteau"
   <div class="container">
     <h2>Awards &amp; Leadership</h2>
     <ul class="awards-list">
-      <li><strong>STAR-AI Symposium 2026 Organizing Committee</strong> — Safe, Trustworthy, Actionable, and Responsible AI in Healthcare</li>
-      <li><strong>NSF-Google-EMBS Award</strong> — IEEE BHI 2025</li>
-      <li><strong>IEEE BHI 2025 Young Professionals Co-Chair</strong> — IEEE International Conference on Biomedical and Health Informatics</li>
-      <li><strong>NSF Student Travel Award</strong> — IEEE BHI 2024</li>
-      <li><strong>IEEE ICIR 2022 Best Paper Award</strong> — "IDTVR: A Novel Cloud Framework for an Interactive Digital Twin in Virtual Reality"</li>
-      <li><strong>ECE-Coulter Shenzhen M.S. Fellowship</strong> — Georgia Tech (2019)</li>
-      <li><strong>3rd Place, Dassault UAV Challenge (2017)</strong> — Team lead, Arts et Métiers ParisTech (first team to use deep learning in the competition)</li>
+      <li><strong>STAR-AI Symposium 2026 Organizing Committee</strong> - Safe, Trustworthy, Actionable, and Responsible AI in Healthcare</li>
+      <li><strong>NSF-Google-EMBS Award</strong> - IEEE BHI 2025</li>
+      <li><strong>IEEE BHI 2025 Young Professionals Co-Chair</strong> - IEEE International Conference on Biomedical and Health Informatics</li>
+      <li><strong>NSF Student Travel Award</strong> - IEEE BHI 2024</li>
+      <li><strong>IEEE ICIR 2022 Best Paper Award</strong> - "IDTVR: A Novel Cloud Framework for an Interactive Digital Twin in Virtual Reality"</li>
+      <li><strong>ECE-Coulter Shenzhen M.S. Fellowship</strong> - Georgia Tech (2019)</li>
+      <li><strong>3rd Place, Dassault UAV Challenge (2017)</strong> - Team lead, Arts et Métiers ParisTech (first team to use deep learning in the competition)</li>
     </ul>
   </div>
 </section>
@@ -81,7 +81,7 @@ title: "Benoit L. Marteau"
       I completed the <strong>TI:GER (Technology Innovation: Generating Economic Results) Program</strong>, a three-semester entrepreneurship program at Georgia Tech focused on translating research into impactful technologies.
     </p>
     <p>
-      Outside of research, I am passionate about <strong>aerospace</strong>, <strong>robotics</strong>, and <strong>drones</strong> — I led the Arts et Métiers team at the <strong>2017 Dassault UAV Challenge</strong> (3rd place, first team to use deep learning in the competition).
+      Outside of research, I am passionate about <strong>aerospace</strong>, <strong>robotics</strong>, and <strong>drones</strong>, I led the Arts et Métiers team at the <strong>2017 Dassault UAV Challenge</strong> (3rd place, first team to use deep learning in the competition).
       I also enjoy <strong>model trains</strong>, <strong>space exploration</strong>, and playing <strong>piano</strong>.
       I am fluent in both <strong>English</strong> and <strong>French</strong> (native).
     </p>
