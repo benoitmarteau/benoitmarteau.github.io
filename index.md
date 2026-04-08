@@ -11,7 +11,7 @@ title: "Benoit L. Marteau"
       <h1 class="hero-name">Benoit L. Marteau</h1>
       <p class="hero-tagline">
         Last-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong>,
-        working at the intersection of <strong>Biomedical AI</strong>, <strong>XR</strong>, and <strong>trustworthy data</strong>.
+        working at the intersection of <strong>Biomedical AI</strong>, <strong>XR</strong>, and <strong>Trustworthy AI &amp; Data</strong>.
       </p>
     </div>
     <div class="hero-image">
@@ -45,13 +45,13 @@ title: "Benoit L. Marteau"
   <div class="container">
     <h2>Awards &amp; Leadership</h2>
     <ul class="awards-list">
+      <li><strong>STAR-AI Symposium 2026 Organizing Committee</strong> — Safe, Trustworthy, Actionable, and Responsible AI in Healthcare</li>
       <li><strong>NSF-Google-EMBS Award</strong> — IEEE BHI 2025</li>
+      <li><strong>IEEE BHI 2025 Young Professionals Co-Chair</strong> — IEEE International Conference on Biomedical and Health Informatics</li>
       <li><strong>NSF Student Travel Award</strong> — IEEE BHI 2024</li>
       <li><strong>IEEE ICIR 2022 Best Paper Award</strong> — "IDTVR: A Novel Cloud Framework for an Interactive Digital Twin in Virtual Reality"</li>
-      <li><strong>IEEE BHI 2025 Young Professionals Co-Chair</strong> — IEEE International Conference on Biomedical and Health Informatics</li>
-      <li><strong>STAR-AI Symposium 2026 Organizing Committee</strong> — Safe, Trustworthy, Actionable, and Responsible AI in Healthcare</li>
-      <li><strong>3rd Place, Dassault UAV Challenge (2017)</strong> — Team lead, Arts et Métiers ParisTech (first team to use deep learning in the competition)</li>
       <li><strong>ECE-Coulter Shenzhen M.S. Fellowship</strong> — Georgia Tech (2019)</li>
+      <li><strong>3rd Place, Dassault UAV Challenge (2017)</strong> — Team lead, Arts et Métiers ParisTech (first team to use deep learning in the competition)</li>
     </ul>
   </div>
 </section>
@@ -60,29 +60,29 @@ title: "Benoit L. Marteau"
   <div class="container">
     <h2>About</h2>
     <p>
-      I am a last-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong> (started 2022, expected graduation <strong>2026</strong>) and
-      <strong>Lab Manager</strong> of the <strong>Bio-MIBLab</strong> for 3 years, advised by <strong>Dr. May D. Wang</strong>. I completed a <strong>Diplôme d'Ingénieur</strong> from <strong>Arts et Métiers ParisTech</strong> in 2020,
-      interned at <strong>Cisco</strong> (2020), and earned an <strong>M.S. in Electrical &amp; Computer Engineering</strong> at Georgia Tech in 2024.
+      I am a last-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong> (expected <strong>2026</strong>),
+      advised by <strong>Dr. May D. Wang</strong>. I have served as <strong>Lab Manager</strong> of the <strong>Bio-MIBLab</strong> for three years.
+      Prior to my doctoral studies, I completed a <strong>Diplôme d'Ingénieur</strong> from <strong>Arts et Métiers ParisTech</strong> (2020),
+      worked as an intern at <strong>Cisco</strong>, and earned an <strong>M.S. in Electrical &amp; Computer Engineering</strong> from Georgia Tech (2024).
     </p>
     <p>
-      My research focuses on <strong>Trustworthy Data and AI within healthcare</strong>, with emphasis on <strong>Healthcare Data Quality Assessment and Improvement</strong>.
-      I work on <strong>Agentic AI</strong> for multimodal multi-source data quality, <strong>data standardization and harmonization</strong> (including <strong>FHIR</strong> and <strong>OMOP CDM v5.4</strong>),
-      and <strong>Metaverse/XR integration</strong> in clinical settings. I am also exploring <strong>Brain and World Models</strong>, studying representation learning (notably <strong>V-JEPA-like world models</strong>).
+      My research centers on <strong>Trustworthy AI and Data</strong> in healthcare. I develop methods for <strong>healthcare data quality assessment and improvement</strong>,
+      <strong>medical data standardization and harmonization</strong> (including <strong>FHIR</strong> and <strong>OMOP CDM v5.4</strong>), and <strong>agentic AI systems</strong> for multimodal clinical data.
+      I also investigate <strong>eXtended Reality (XR)</strong> and <strong>digital twin</strong> technologies for clinical applications, as well as <strong>representation learning</strong> and <strong>world models</strong> for biomedical domains.
     </p>
     <p>
-      As <strong>Lab Manager</strong>, I manage a laboratory with over <strong>50 graduate and undergraduate students</strong> and directly mentor <strong>12+ researchers</strong>. I coordinate lab computational infrastructure including <strong>Azure cloud environments</strong> (IoT Hub, Function App, Blob Storage, ML).
-      I am part of the organizing committee for <strong>IEEE BHI 2025</strong> and the <strong>STAR-AI Symposium 2026</strong>.
+      As Lab Manager, I oversee a laboratory of over <strong>50 graduate and undergraduate students</strong> and directly mentor <strong>12+ researchers</strong>.
+      I coordinate lab computational infrastructure including <strong>Azure cloud environments</strong> and serve on the organizing committees for <strong>IEEE BHI 2025</strong> and the <strong>STAR-AI Symposium 2026</strong>.
     </p>
     <p>
-      I have <strong>33 peer-reviewed publications</strong> (8 first/co-first author) and have developed <strong>XR applications</strong> using <strong>Unity</strong> with <strong>Meta SDK</strong> for brain visualization and rehabilitation research.
+      I have authored <strong>30+ peer-reviewed publications</strong> (8 first/co-first author) and developed <strong>XR applications</strong> using <strong>Unity</strong> with <strong>Meta SDK</strong> for brain visualization and rehabilitation research.
     </p>
     <p>
-      I successfully completed the <strong>TI:GER (Technology Innovation: Generating Economic Results) Program</strong>, a 3-semester entrepreneurship program at Georgia Tech,
-      where I explored translating research into impactful technologies.
+      I completed the <strong>TI:GER (Technology Innovation: Generating Economic Results) Program</strong>, a three-semester entrepreneurship program at Georgia Tech focused on translating research into impactful technologies.
     </p>
     <p>
-      In my free time, I enjoy <strong>aerospace</strong>, <strong>robotics</strong>, <strong>drones</strong>, <strong>model trains</strong>, <strong>space exploration</strong>, and playing <strong>piano</strong>.
-      I led the Arts et Métiers team at the <strong>2017 Dassault UAV Challenge</strong> (3rd place, first team to use deep learning in the competition).
+      Outside of research, I am passionate about <strong>aerospace</strong>, <strong>robotics</strong>, and <strong>drones</strong> — I led the Arts et Métiers team at the <strong>2017 Dassault UAV Challenge</strong> (3rd place, first team to use deep learning in the competition).
+      I also enjoy <strong>model trains</strong>, <strong>space exploration</strong>, and playing <strong>piano</strong>.
       I am fluent in both <strong>English</strong> and <strong>French</strong> (native).
     </p>
   </div>
@@ -135,7 +135,7 @@ title: "Benoit L. Marteau"
   <div class="container">
     <h2>Research Interests</h2>
     <div class="chips">
-      <span class="chip">Trustworthy Data &amp; AI</span>
+      <span class="chip">Trustworthy AI &amp; Data</span>
       <span class="chip">Healthcare Data Quality</span>
       <span class="chip">Agentic AI</span>
       <span class="chip">Data Harmonization (FHIR/OMOP)</span>
