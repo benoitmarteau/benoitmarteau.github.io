@@ -15,7 +15,6 @@ title: "Benoit L. Marteau"
       </p>
     </div>
     <div class="hero-image">
-      <!-- Replace assets/img/profile.jpg with your own photo using the same filename -->
       <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile photo of Benoit L. Marteau">
     </div>
   </div>
@@ -97,17 +96,19 @@ title: "Benoit L. Marteau"
         <div class="chips">
           <span class="chip">Python</span>
           <span class="chip">C#</span>
+          <span class="chip">C++</span>
           <span class="chip">SQL</span>
-          <span class="chip">MATLAB</span>
         </div>
       </div>
       <div class="skill-category">
-        <h3>AI/ML Frameworks</h3>
+        <h3>AI/ML</h3>
         <div class="chips">
           <span class="chip">PyTorch</span>
           <span class="chip">TensorFlow</span>
-          <span class="chip">Scikit-learn</span>
           <span class="chip">Hugging Face</span>
+          <span class="chip">LLMs</span>
+          <span class="chip">Diffusion Models</span>
+          <span class="chip">Computer Vision</span>
         </div>
       </div>
       <div class="skill-category">
@@ -120,9 +121,9 @@ title: "Benoit L. Marteau"
       <div class="skill-category">
         <h3>Cloud &amp; Data</h3>
         <div class="chips">
-          <span class="chip">Azure IoT Hub</span>
-          <span class="chip">Azure Function App</span>
-          <span class="chip">Azure Blob Storage</span>
+          <span class="chip">Azure (IoT Hub, ML, Blob)</span>
+          <span class="chip">MS Fabric</span>
+          <span class="chip">Docker</span>
           <span class="chip">FHIR</span>
           <span class="chip">OMOP CDM</span>
         </div>
@@ -167,7 +168,7 @@ title: "Benoit L. Marteau"
         {% endif %}
         <li class="publication-item">
           <div class="publication-title">
-            {% if pub.link %}
+            {% if pub.link and pub.link != "" %}
               <a href="{{ pub.link }}" target="_blank" rel="noopener noreferrer">{{ pub.title }}</a>
             {% else %}
               {{ pub.title }}
