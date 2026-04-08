@@ -68,7 +68,7 @@ title: "Benoit L. Marteau"
     <p>
       My research centers on <strong>Trustworthy AI and Data</strong> in healthcare. I develop methods for <strong>healthcare data quality assessment and improvement</strong>,
       <strong>medical data standardization and harmonization</strong> (including <strong>FHIR</strong> and <strong>OMOP CDM v5.4</strong>), and <strong>agentic AI systems</strong> for multimodal clinical data.
-      I also investigate <strong>eXtended Reality (XR)</strong> and <strong>digital twin</strong> technologies for clinical applications, as well as <strong>representation learning</strong> and <strong>world models</strong> for biomedical domains.
+      I also investigate <strong>eXtended Reality (XR)</strong> and <strong>brain digital twin</strong> technologies for clinical applications, as well as <strong>world models</strong> and <strong>representation learning</strong>.
     </p>
     <p>
       As Lab Manager, I oversee a laboratory of over <strong>50 graduate and undergraduate students</strong> and directly mentor <strong>12+ researchers</strong>.
@@ -137,14 +137,14 @@ title: "Benoit L. Marteau"
     <div class="chips">
       <span class="chip">Trustworthy AI &amp; Data</span>
       <span class="chip">Healthcare Data Quality</span>
+      <span class="chip">Medical Data Harmonization</span>
       <span class="chip">Agentic AI</span>
-      <span class="chip">Data Harmonization (FHIR/OMOP)</span>
-      <span class="chip">XR/Metaverse in Healthcare</span>
-      <span class="chip">Brain &amp; World Models</span>
-      <span class="chip">Representation Learning</span>
-      <span class="chip">Digital Twins</span>
-      <span class="chip">Biomedical AI</span>
+      <span class="chip">World Models &amp; JEPA</span>
+      <span class="chip">Brain Digital Twins</span>
+      <span class="chip">Extended Reality in Healthcare</span>
       <span class="chip">Clinical Decision Support</span>
+      <span class="chip">Biomedical Imaging</span>
+      <span class="chip">Representation Learning</span>
     </div>
   </div>
 </section>
