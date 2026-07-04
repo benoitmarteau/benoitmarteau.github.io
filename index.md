@@ -31,7 +31,7 @@ title: "Benoit L. Marteau"
         </li>
       {% endfor %}
       <li class="social-link-item">
-        <a href="{{ '/assets/Resume_FINAL.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="resume-download">
+        <a href="{{ '/assets/Benoit_Marteau_Resume.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="resume-download">
           <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
           <span class="social-name">Resume (PDF)</span>
         </a>
@@ -59,7 +59,7 @@ title: "Benoit L. Marteau"
   <div class="container">
     <h2>About</h2>
     <p>
-      I am a last-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong> (expected <strong>Fall 2026</strong>),
+      I am a last-year <strong>Ph.D. student</strong> in <strong>Electrical &amp; Computer Engineering</strong> at <strong>Georgia Tech</strong> (expected <strong>2027</strong>),
       advised by <strong>Dr. May D. Wang</strong>. I have served as <strong>Lab Manager</strong> of the <strong>Bio-MIBLab</strong> for three years.
       I hold a <strong>Diplôme d'Ingénieur</strong> from <strong>Arts et Métiers ParisTech</strong> (2016–2020) and an <strong>M.S. in Electrical &amp; Computer Engineering</strong> from <strong>Georgia Tech</strong> (2019) through a double-diploma program.
       I interned at <strong>Cisco</strong> (2020) and worked as a <strong>Research Assistant</strong> in the <strong>Coskun Lab</strong> at Georgia Tech (2021), where I focused on single-cell imaging and AI-driven analysis, before joining Dr. Wang's lab to start my Ph.D. in 2022.
